@@ -1,0 +1,16 @@
+D:\AWS\csharp\bin\Debug\net5.0\csharp.exe
+D:\AWS\csharp\bin\Debug\net5.0\csharp.deps.json
+D:\AWS\csharp\bin\Debug\net5.0\csharp.runtimeconfig.json
+D:\AWS\csharp\bin\Debug\net5.0\csharp.runtimeconfig.dev.json
+D:\AWS\csharp\bin\Debug\net5.0\csharp.dll
+D:\AWS\csharp\bin\Debug\net5.0\ref\csharp.dll
+D:\AWS\csharp\bin\Debug\net5.0\csharp.pdb
+D:\AWS\csharp\obj\Debug\net5.0\csharp.csproj.AssemblyReference.cache
+D:\AWS\csharp\obj\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AWS\csharp\obj\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+D:\AWS\csharp\obj\Debug\net5.0\csharp.AssemblyInfo.cs
+D:\AWS\csharp\obj\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+D:\AWS\csharp\obj\Debug\net5.0\csharp.dll
+D:\AWS\csharp\obj\Debug\net5.0\ref\csharp.dll
+D:\AWS\csharp\obj\Debug\net5.0\csharp.pdb
+D:\AWS\csharp\obj\Debug\net5.0\csharp.genruntimeconfig.cache
