@@ -5,9 +5,9 @@
 Event URL:https://www.meetup.com/dot-net-learners-house-hyderabad/events/286027708/
 
 Youtube URL:https://www.youtube.com/watch?v=LOr8iGd1i8s
-
+---
 ![Anusha|150x150](./Documentation/Images/Anusha.PNG)
-
+---
 ## Prerequisites:
 
 N/A
@@ -50,4 +50,4 @@ N/A
 
 ## 3. Compare the 3 languages Python, C# and Javascript
 
-![Compare | 100x100](./Documentation/Images/Compare.PNG)
+![Compare | 100x100](./Documentation/Images/Compare%203%20languages.PNG)
