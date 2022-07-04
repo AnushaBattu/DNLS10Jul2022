@@ -8,7 +8,7 @@ Youtube URL:https://www.youtube.com/watch?v=LOr8iGd1i8s
 
 ---
 
-## ![Anusha|150x150](./Documentation/Images/Anusha.PNG)
+![Anusha|150x150](./Documentation/Images/Anusha.PNG)
 
 ---
 
