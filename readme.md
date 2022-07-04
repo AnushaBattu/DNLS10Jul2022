@@ -8,7 +8,7 @@ Youtube URL:https://www.youtube.com/watch?v=LOr8iGd1i8s
 
 ---
 
-![Anusha|150x150](./Documentation/Images/Anusha.PNG)
+![Anusha|150x150](./Documents/Images/Anusha.PNG)
 
 ---
 
@@ -28,7 +28,7 @@ N/A
 
 ## Information
 
-## ![Information | 100x100](./Documentation/Images/Information.PNG)
+## ![Information | 100x100](./Documents/Images/Information.PNG)
 
 ## What are we doing today?
 
@@ -42,16 +42,16 @@ N/A
 
 ### 2.1. "Hello, World!" in Python
 
-![HelloPython | 100x100](./Documentation/Images/HelloPython.PNG)
+![HelloPython | 100x100](./Documents/Images/HelloPython.PNG)
 
 ### 2.2. "Hello, World!" in C#
 
-![HelloCsharp | 100x100](./Documentation/Images/HelloCsharp.PNG)
+![HelloCsharp | 100x100](./Documents/Images/HelloCsharp.PNG)
 
 ### 2.3. "Hello, World!" in Javascript
 
-![HelloJavascript | 100x100](./Documentation/Images/HelloJavascript.PNG)
+![HelloJavascript | 100x100](./Documents/Images/HelloJavascript.PNG)
 
 ## 3. Compare the 3 languages Python, C# and Javascript
 
-![Compare | 100x100](./Documentation/Images/Compare%203%20languages.PNG)
+![Compare | 100x100](./Documents/Images/Compare%203%20languages.PNG)
