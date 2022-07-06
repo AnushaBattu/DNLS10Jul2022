@@ -31,7 +31,7 @@ N/A
 
 ## Information
 
-![Information | 100x100](./Documents/Images/Information.PNG)
+## ![Information | 100x100](./Documents/Images/Information.PNG)
 
 
 ## What are we doing today?
