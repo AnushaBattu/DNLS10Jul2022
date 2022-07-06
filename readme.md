@@ -44,7 +44,7 @@ N/A
 
 ## 1. Why are we doing Hello world programming in 3 different languages
 
-![Information | 100x100](./Documents/Images/Capture.PNG)
+![Capture | 100x100](./Documents/Images/Capture.PNG)
 
 
 
