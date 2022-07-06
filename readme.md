@@ -16,9 +16,11 @@ Youtube URL:https://www.youtube.com/watch?v=LOr8iGd1i8s
 
 N/A
 
+
 ## Software/Tools
 
 > Visual Studio Code
+
 
 ## Languages:
 
@@ -26,9 +28,11 @@ N/A
 > 2. C#
 > 3. Javascript
 
+
 ## Information
 
 ## ![Information | 100x100](./Documents/Images/Information.PNG)
+
 
 ## What are we doing today?
 
@@ -36,7 +40,13 @@ N/A
 > 2. Hello world programming in 3 different languages
 > 3. Compare the 3 languages Python, C# and Javascript
 
+
+
 ## 1. Why are we doing Hello world programming in 3 different languages
+
+![Information | 100x100](./Documents/Images/Capture.PNG)
+
+
 
 ## 2. Hello world programming in 3 different languages
 
@@ -44,14 +54,22 @@ N/A
 
 ![HelloPython | 100x100](./Documents/Images/HelloPython.PNG)
 
+
+
 ### 2.2. "Hello, World!" in C#
 
 ![HelloCsharp | 100x100](./Documents/Images/HelloCsharp.PNG)
+
+
 
 ### 2.3. "Hello, World!" in Javascript
 
 ![HelloJavascript | 100x100](./Documents/Images/HelloJavascript.PNG)
 
+
+
 ## 3. Compare the 3 languages Python, C# and Javascript
 
 ![Compare | 100x100](./Documents/Images/Compare%203%20languages.PNG)
+
+
